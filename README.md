@@ -1,15 +1,11 @@
 
-My Name is Dajan Lyttle. 
-I am student at the University of Washington Tacoma in Tacoma, WA. I am pursuing a major in Electrical Engineering and a minor in Mathematics.
+Hi, my Name is Dajan Lyttle. I am student at the University of Washington Tacoma in Tacoma, WA. I am pursuing a major in Electrical Engineering and a minor in Mathematics.
 
-Languages:
+Languages
 
 	Java 
-  
 	Python 
-  
 	HTML/CSS
-  
 	JavaScript
   
 
