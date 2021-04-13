@@ -2,19 +2,19 @@
 My Name is Dajan Lyttle. 
 I am student at the University of Washington Tacoma in Tacoma, WA. I am pursuing a major in Electrical Engineering and a minor in Mathematics.
 
-Languages
+Languages:
 
-  Java 
+	Java 
   
-  Python 
+	Python 
   
-  HTML/CSS
+	HTML/CSS
   
-  JavaScript
+	JavaScript
   
 
 Contact
 
-LinkedIn: https://www.linkedin.com/in/dajanklyttle/
+	LinkedIn: https://www.linkedin.com/in/dajanklyttle/
 
-Email: dajanklyttle@gmail.com
+	Email: dajanklyttle@gmail.com
