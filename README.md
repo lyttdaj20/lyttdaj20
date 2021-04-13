@@ -12,5 +12,4 @@ Languages
 Contact
 
 	LinkedIn: https://www.linkedin.com/in/dajanklyttle/
-
 	Email: dajanklyttle@gmail.com
